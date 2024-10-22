@@ -1,0 +1,39 @@
+/* Style for the header container */
+.header-container {
+  background-color: #ffa988;
+  padding: 20px;
+  border-radius: 8px;
+  margin-bottom: 20px;
+  color: black;
+}
+
+/* Style for the top spots container */
+.top-spots-container {
+  background-color: rgba(255,255,255, 0.2);
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.card-text {
+  transition: opacity 0.3s ease-in-out;
+}
+
+.btn-primary {
+  transition: background-color 0.3s ease-in-out;
+}
+
+.card-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.card {
+  width: 100%;
+}
+
+.topspot-card-container {
+  display: flex;
+  justify-content: center;
+}
